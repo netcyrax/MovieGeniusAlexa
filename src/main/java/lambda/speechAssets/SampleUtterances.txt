@@ -1,0 +1,27 @@
+HelloWorldIntent say hello
+HelloWorldIntent say hello world
+HelloWorldIntent hello
+HelloWorldIntent say hi
+HelloWorldIntent say hi world
+HelloWorldIntent hi
+HelloWorldIntent find a {genre}
+
+FirstResultIntent I want a {genre}
+FirstResultIntent find me {genre}
+FirstResultIntent for {genre}
+FirstResultIntent a {genre}
+FirstResultIntent {genre}
+
+AMAZON.NextIntent no
+AMAZON.NextIntent nope
+AMAZON.NextIntent other
+AMAZON.NextIntent continue
+AMAZON.NextIntent go on
+AMAZON.NextIntent keep going
+
+MovieDetailIntent {action}
+
+AMAZON.CancelIntent stop
+AMAZON.CancelIntent cancel
+AMAZON.CancelIntent exit
+AMAZON.CancelIntent quit
